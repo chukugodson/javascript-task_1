@@ -1,7 +1,8 @@
-let f_name = "Godson";
-let height = "167.64cm";
-let country = "Nigeria";
+let f_name = "Name: Godson";
+let height = "Height: 167.64cm";
+let country = "Country: Nigeria";
 
-console.log(f_name);
-console.log(height);
-console.log(country);
+alert(f_name);
+alert(height);
+alert(country);
+
